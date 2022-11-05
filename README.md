@@ -1,6 +1,6 @@
 ### Typescript
 
-** install packages **
+**install packages**
 
 - cheerio
 - superagent
